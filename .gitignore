@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.pt
+audio_samples/
+modalities/image/*.m4a

@@ -1,0 +1,11 @@
+torch>=2.1
+transformers>=4.36
+datasets>=2.16
+accelerate
+streamlit
+opencv-python
+librosa
+numpy
+
+
+
